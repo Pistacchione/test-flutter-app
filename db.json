@@ -1,28 +1,24 @@
 {
   "image-buttons": [
     {
-      "id": 1,
       "name": "Museo",
       "imageName": "museo.jpg",
       "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
       "value": "m"
     },
     {
-      "id": 2,
       "imageName": "escursionismo.jpg",
       "name": "Escursione",
       "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
       "value": "e"
     },
     {
-      "id": 3,
       "name": "Visita",
       "imageName": "visita.jpg",
       "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
       "value": "v"
     },
     {
-      "id": 4,
       "name": "Passeggiata",
       "imageName": "passeggiata.jpg",
       "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
