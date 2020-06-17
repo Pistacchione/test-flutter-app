@@ -3,11 +3,13 @@
     {
       "id": 1,
       "name": "Museo",
+      "imageName": "museo.jpg",
       "imageUrl": "https://lh3.googleusercontent.com/proxy/CZxKr6VQN94BShKTp09_WY5-NSh-RB8WSE1mrfFQQCun-OW7v3Hs4z_R_92wl4tc9L_0hURbkIeEhpiKOmkC-OBxx6FmF_KFQ8B_1Y3uca4lQscFhZ_tyOD72siwT0r1-iZU3sekmG8zGuM0-XBO5gOJjGJe_ZmnKZsDHEoiRCQMl2m3w-hDpg-A0nzf16xo",
       "value": "m"
     },
     {
       "id": 2,
+      "imageName": "escursionismo.jpg",
       "name": "Escursione",
       "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
       "value": "e"
@@ -15,12 +17,14 @@
     {
       "id": 3,
       "name": "Visita",
+      "imageName": "visita.jpg",
       "imageUrl": "https://lh3.googleusercontent.com/proxy/jdqrgqdNxANCmZjx_X4oVfAJxvE4TJafKuN8M7K9-9R-ip3Dq1Oo_vm2xAly2hRlk_7cEzlyalXj1psSlHIe0QwTfq39OaMrV8riHTcNoVGu_pnkp1uxwZxzAkza",
       "value": "v"
     },
     {
       "id": 4,
       "name": "Passeggiata",
+      "imageName": "passeggiata.jpg",
       "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
       "value": "p"
     }
