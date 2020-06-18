@@ -1,28 +1,97 @@
 {
-  "image-buttons": [
-    {
-      "name": "Museo",
-      "imageName": "museo.jpg",
-      "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
-      "value": "m"
-    },
-    {
-      "imageName": "escursionismo.jpg",
-      "name": "Escursione",
-      "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
-      "value": "e"
-    },
-    {
-      "name": "Visita",
-      "imageName": "visita.jpg",
-      "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
-      "value": "v"
-    },
-    {
-      "name": "Passeggiata",
-      "imageName": "passeggiata.jpg",
-      "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
-      "value": "p"
+  "version": 0,
+  "home": {
+    "style": {},
+    "content": {
+      "rows": [
+        {
+          "style": {},
+          "text": "Hey, plan your"
+        },
+        {
+          "style": {},
+          "text": "journey here!"
+        }
+      ],
+      "start-button": {
+        "style": {},
+        "content": {
+          "title": {
+            "style": {},
+            "text": "Start!"
+          },
+          "subTitle": {
+            "style": {},
+            "text": "Touch here"
+          }
+        }
+      }
     }
-  ]
+  },
+  "step1": {
+    "style": {},
+    "content": {
+      "rows": [
+        {
+          "style": {},
+          "text": "Quanto distante"
+        },
+        {
+          "style": {},
+          "text": "vuoi andare?"
+        }
+      ],
+      "choice-buttons": [
+        {
+          "name": "Cerca in questa città",
+          "value": 0
+        },
+        {
+          "name": "Max 1 ora di distanza",
+          "value": 1
+        },
+        {
+          "name": "Max 3 ore di distanza",
+          "value": 3
+        }
+      ]
+    }
+  },
+  "step2": {
+    "style": {},
+    "content": {
+      "rows": [
+        {
+          "style": {},
+          "text": "Sei un tipo da"
+        }
+      ],
+      "image-buttons": [
+        {
+          "name": "Museo",
+          "imageName": "museo.jpg",
+          "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
+          "value": "m"
+        },
+        {
+          "imageName": "escursionismo.jpg",
+          "name": "Escursione",
+          "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
+          "value": "e"
+        },
+        {
+          "name": "Visita",
+          "imageName": "visita.jpg",
+          "imageUrl": "https://www.nuovocadore.it/wp-content/uploads/2014/02/escursionismo.jpg",
+          "value": "v"
+        },
+        {
+          "name": "Passeggiata",
+          "imageName": "passeggiata.jpg",
+          "imageUrl": "https://www.ilovevaldinon.it/wp-content/uploads/2019/04/passeggiate-in-piano-in-Val-di-Non-i-love-val-di-non.jpg",
+          "value": "p"
+        }
+      ]
+    }
+  }
 }
