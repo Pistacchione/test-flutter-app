@@ -1,27 +1,21 @@
 {
   "version": 0,
   "home": {
-    "style": {},
     "content": {
       "rows": [
         {
-          "style": {},
           "text": "Hey, plan your"
         },
         {
-          "style": {},
           "text": "journey here!"
         }
       ],
       "start-button": {
-        "style": {},
         "content": {
           "title": {
-            "style": {},
             "text": "Start!"
           },
           "subTitle": {
-            "style": {},
             "text": "Touch here"
           }
         }
@@ -29,15 +23,12 @@
     }
   },
   "step1": {
-    "style": {},
     "content": {
       "rows": [
         {
-          "style": {},
           "text": "Quanto distante"
         },
         {
-          "style": {},
           "text": "vuoi andare?"
         }
       ],
@@ -58,11 +49,9 @@
     }
   },
   "step2": {
-    "style": {},
     "content": {
       "rows": [
         {
-          "style": {},
           "text": "Sei un tipo da"
         }
       ],
