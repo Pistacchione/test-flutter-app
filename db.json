@@ -8,17 +8,7 @@
         {
           "text": "journey here!"
         }
-      ],
-      "start-button": {
-        "content": {
-          "title": {
-            "text": "Start!"
-          },
-          "subTitle": {
-            "text": "Touch here"
-          }
-        }
-      }
+      ]
     }
   }
 }
